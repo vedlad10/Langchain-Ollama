@@ -26,3 +26,5 @@ This project is a simple AI-powered question-answering application built using *
 
 ```bash
 pip install langchain langchain-community streamlit python-dotenv
+⚠️ Note: This application is intended to run locally. Streamlit Cloud does not support local LLM servers such as Ollama.
+
